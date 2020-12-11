@@ -1,1 +1,1 @@
-application connect creater to inventer
+app that connect creater to inventer
